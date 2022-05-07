@@ -1,4 +1,5 @@
-#Striver's SDE Sheet
+# Striver's SDE Sheet
+
 This repo contains all the solutions of Striver's SDE Sheet.
 
 The solutions are the most optimized and were written in such a manner to help me revise whenever needed.
