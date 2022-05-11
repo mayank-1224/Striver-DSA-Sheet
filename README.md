@@ -37,18 +37,25 @@ Each solution took hours to arrive at and the final ones are the best and the mo
 |4|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|**Medium**|
 |5|[Unique Paths](https://leetcode.com/problems/unique-paths/)|**Medium**|
 |6|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|**Hard**|
- 
-4. Arrays - IV
-    1. Two Sum
-    2. 4Sum
-    3. Longest Consecutive Sequence
-    4. Largest subarray with 0 sum
-    5. Subarray with given XOR
-    6. Longest Substring Without Repeating Characters
-5. Linked Lists
-    1. Reverse Linked List
-    2. Middle of the Linked List
-    3. Merge Two Sorted Lists
-    4. Remove Nth Node From End of List
-    5. Add Two Numbers
-    6. Delete Node in a Linked List
+
+## Arrays - IV
+
+| **#** | **Title**                                                                                                                                                       | **Difficulty** |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|**Easy**|
+|2|[4Sum](https://leetcode.com/problems/4sum/)|**Medium**|
+|3|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|**Easy**|
+|4|[Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)|**Easy**|
+|5|[Subarray with given XOR](https://www.interviewbit.com/problems/subarray-with-given-xor/)|**Medium**|
+|6|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|**Medium**|
+
+## Linked Lists
+
+| **#** | **Title**                                                                                                                                                       | **Difficulty** |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |
+|1|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|**Easy**|
+|2|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|**Easy**|
+|3|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|**Easy**|
+|4|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|**Medium**|
+|5|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|**Medium**|
+|6|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|**Easy**|
