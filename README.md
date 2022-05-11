@@ -20,3 +20,24 @@ Index:
     4. Find the Duplicate Number
     5. Repeat and Missing Number Array
     6. Count Inversions 
+3. Arrays - III
+    1. Search a 2D Matrix
+    2. Pow(x, n)
+    3. Majority Element
+    4. Majority Element II
+    5. Unique Paths
+    6. Reverse Pairs
+4. Arrays - IV
+    1. Two Sum
+    2. 4Sum
+    3. Longest Consecutive Sequence
+    4. Largest subarray with 0 sum
+    5. Subarray with given XOR
+    6. Longest Substring Without Repeating Characters
+5. Linked Lists
+    1. Reverse Linked List
+    2. Middle of the Linked List
+    3. Merge Two Sorted Lists
+    4. Remove Nth Node From End of List
+    5. Add Two Numbers
+    6. Delete Node in a Linked List
