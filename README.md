@@ -27,28 +27,17 @@ Each solution took hours to arrive at and the final ones are the best and the mo
 |5|[Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)|**Medium**|
 |6|[Count Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_615https://www.codingninjas.com/codestudio/problems/count-inversions_615)|**Medium**|
 
-Index:
-1. Arrays - I
-    1. Set Matrix Zeroes
-    2. Pascal's Triangle
-    3. Next Permutation
-    4. Maximum Subarray (Kadane's Algorithm)
-    5. Sort Colors (Sort an array of 0s, 1s 2s - Dutch National Flag)
-    6. Best Time to Buy and Sell Stock
-2. Arrays - II
-    1. Rotate Image 90deg clockwise
-    2. Merge Intervals
-    3. Merge 2 sorted arrays
-    4. Find the Duplicate Number
-    5. Repeat and Missing Number Array
-    6. Count Inversions 
-3. Arrays - III
-    1. Search a 2D Matrix
-    2. Pow(x, n)
-    3. Majority Element
-    4. Majority Element II
-    5. Unique Paths
-    6. Reverse Pairs
+## Arrays - III
+
+| **#** | **Title**                                                                                                                                                       | **Difficulty** |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |
+|1|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|**Medium**|
+|2|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|**Medium**|
+|3|[Majority Element](https://leetcode.com/problems/majority-element/)|**Easy**|
+|4|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|**Medium**|
+|5|[Unique Paths](https://leetcode.com/problems/unique-paths/)|**Medium**|
+|6|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|**Hard**|
+ 
 4. Arrays - IV
     1. Two Sum
     2. 4Sum
