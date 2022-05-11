@@ -10,8 +10,11 @@ Each solution took hours to arrive at and the final ones are the best and the mo
 | **#** | **Title**                                                                                                                                                       | **Difficulty** |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |
 |1|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|**Medium**|
-
-
+|2|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|**Easy**|
+|3|[Next Permutation](https://leetcode.com/problems/next-permutation/)|**Medium**|
+|4|[Maximum Subarray (Kadane's Algorithm)](https://leetcode.com/problems/maximum-subarray/)|**Medium**|
+|5|[Sort Colors (Sort an array of 0s, 1s 2s - Dutch National Flag)](https://leetcode.com/problems/sort-colors/)|**Medium**|
+|6|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|**Medium**|
 
 
 Index:
