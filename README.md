@@ -5,17 +5,27 @@ This repo contains all the solutions of Striver's SDE Sheet.
 The solutions are the most optimized and were written in such a manner to help me revise whenever needed.
 Each solution took hours to arrive at and the final ones are the best and the most optimized ones, taken from striver himself or my codes if I arrived at it. :(
 
-## Arrays
+## Arrays - I
 
 | **#** | **Title**                                                                                                                                                       | **Difficulty** |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |
 |1|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|**Medium**|
 |2|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|**Easy**|
 |3|[Next Permutation](https://leetcode.com/problems/next-permutation/)|**Medium**|
-|4|[Maximum Subarray (Kadane's Algorithm)](https://leetcode.com/problems/maximum-subarray/)|**Medium**|
+|4|[Maximum Subarray (Kadane's Algorithm)](https://leetcode.com/problems/maximum-subarray/)|**Easy**|
 |5|[Sort Colors (Sort an array of 0s, 1s 2s - Dutch National Flag)](https://leetcode.com/problems/sort-colors/)|**Medium**|
-|6|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|**Medium**|
+|6|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|**Easy**|
 
+## Arrays - II
+
+| **#** | **Title**                                                                                                                                                       | **Difficulty** |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |
+|1|[Rotate Image 90deg clockwise](https://leetcode.com/problems/rotate-image/)|**Medium**|
+|2|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|**Easy**|
+|3|[Merge 2 sorted arrays](https://leetcode.com/problems/merge-sorted-array/)|**Easy**|
+|4|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|**Medium**|
+|5|[Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)|**Medium**|
+|6|[Count Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_615https://www.codingninjas.com/codestudio/problems/count-inversions_615)|**Medium**|
 
 Index:
 1. Arrays - I
