@@ -44,7 +44,7 @@ Each solution took hours to arrive at and the final ones are the best and the mo
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|**Easy**|
 |2|[4Sum](https://leetcode.com/problems/4sum/)|**Medium**|
-|3|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|**Easy**|
+|3|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|**Medium**|
 |4|[Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)|**Easy**|
 |5|[Subarray with given XOR](https://www.interviewbit.com/problems/subarray-with-given-xor/)|**Medium**|
 |6|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|**Medium**|
